@@ -23,7 +23,7 @@ Class Doggo
 
 $doggo = new Doggo();
 
-// properties of doggo cannot be read directly from the new object
+// properties of Doggo cannot be read directly from the new object
 // echo $doggo->name;
 
 // nor written directly from the new object
