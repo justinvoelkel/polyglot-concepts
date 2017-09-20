@@ -9,3 +9,6 @@ I hope to provide both simple examples (animal, shape, product, etc.) as well as
 * [Encapsulation](Encapsulation/)
 	* [Javascript](Encapsulation/JS/)
 	* [PHP](Encapsulation/PHP/)
+* [Inheritance](Inheritance/)
+	* [Javascript](Inheritance/JS/)
+	* [PHP](Inheritance/PHP/)
