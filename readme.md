@@ -12,3 +12,5 @@ I hope to provide both simple examples (animal, shape, product, etc.) as well as
 * [Inheritance](Inheritance/)
 	* [Javascript](Inheritance/JS/)
 	* [PHP](Inheritance/PHP/)
+* [Aggregation](Aggregation/)
+	* [PHP](Aggregation/PHP/)
